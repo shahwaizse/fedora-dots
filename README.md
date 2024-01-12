@@ -17,5 +17,5 @@ foot needs [libsixel](https://copr.fedorainfracloud.org/coprs/lchh/libsixel/) to
 after this, follow the instructions in the [wiki.](https://github.com/dylanaraps/neofetch/wiki/Image-Backends)  
 
 #### [Custom script for setting wallpaper in Thunar]  
-`echo 'preload = %f' > ~/.config/hypr/hyprpaper.conf && echo 'wallpaper = eDP-1, %f' >> ~/.config/hypr/hyprpaper.conf`
+`echo 'preload = %f' > ~/.config/hypr/hyprpaper.conf && echo 'wallpaper = eDP-1, %f' >> ~/.config/hypr/hyprpaper.conf`  
 after this, press `Super + W` to refresh the wallpaper.
