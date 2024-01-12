@@ -1,1 +1,1 @@
-![Alt text][screenshots/neofetch.png]
+![](screenshots/neofetch.png)
