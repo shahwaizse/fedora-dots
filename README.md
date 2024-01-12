@@ -1,2 +1,1 @@
-# dot-files
-dotfiles for my linux rice.
+screenshots/neofetch
