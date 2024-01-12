@@ -1,5 +1,6 @@
-![](screenshots/neofetch.png)
+![](screenshots/neofetch.png)  
 
+#### [System Information]
 Operating system: [Fedora Sway](https://fedoraproject.org/spins/sway/)  
 Window manager: [Hyprland](https://github.com/hyprwm/Hyprland)  
 Launcher: [Rofi](https://github.com/davatorium/rofi)  
