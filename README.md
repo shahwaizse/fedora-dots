@@ -22,4 +22,9 @@ after this, follow the instructions in the [wiki.](https://github.com/dylanaraps
 
 #### [Custom script for setting wallpaper in Thunar]  
 `echo 'preload = %f' > ~/.config/hypr/hyprpaper.conf && echo 'wallpaper = eDP-1, %f' >> ~/.config/hypr/hyprpaper.conf`  
-after this, press `Super + W` to refresh the wallpaper.
+after this, press `Super + W` to refresh the wallpaper.  
+
+#### [Show off scripts]  
+Bonsai tree generator: [cbonsai](https://gitlab.com/jallbrit/cbonsai)  
+Audio visualizer: [cava](https://github.com/karlstav/cava#package-managers)  
+Image viewer: [vv](https://github.com/hackerb9/vv)
