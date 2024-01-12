@@ -9,7 +9,7 @@ GTK3 settings: [nwg-look](https://github.com/nwg-piotr/nwg-look)
 Theme (for everything): [Catppuccin](https://github.com/catppuccin/catppuccin)  
 Rofi modules: [adi1090x/rofi](https://github.com/adi1090x/rofi)  
   
-Displaying image in neofetch:  
+#### Displaying images in neofetch  
 foot needs [libsixel](https://copr.fedorainfracloud.org/coprs/lchh/libsixel/) to display images.  
 `sudo dnf copr enable lchh/libsixel`  
 `sudo dnf install libsixel`  
