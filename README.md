@@ -1,7 +1,7 @@
 ![](screenshots/neofetch.png)  
 ![](screenshots/rofi-apps.png)  
-![](screenshots/rofi-power.png)  
-![](screenshots/foot.png)  
+![](screenshots/foot.png)    
+![](screenshots/rofi-power.png)   
 
 
 #### [System Information]
