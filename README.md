@@ -1,1 +1,1 @@
-![screenshots/neofetch.png]
+![Alt text][screenshots/neofetch.png]
