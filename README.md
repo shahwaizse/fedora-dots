@@ -1,1 +1,1 @@
-screenshots/neofetch
+![screenshots/neofetch.png]
