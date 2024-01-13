@@ -27,4 +27,5 @@ after this, press `Super + W` to refresh the wallpaper.
 #### [Show off scripts]  
 Bonsai tree generator: [cbonsai](https://gitlab.com/jallbrit/cbonsai)  
 Audio visualizer: [cava](https://github.com/karlstav/cava#package-managers)  
-Image viewer: [vv](https://github.com/hackerb9/vv)
+Image viewer: [vv](https://github.com/hackerb9/vv)  
+Animated GIF viewer: [sixvid](https://github.com/hackerb9/sixvid/tree/main)
