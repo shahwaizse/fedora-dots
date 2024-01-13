@@ -13,6 +13,7 @@ Terminal: [foot](https://codeberg.org/dnkl/foot)
 GTK3 settings: [nwg-look](https://github.com/nwg-piotr/nwg-look)  
 Theme (for everything): [Catppuccin](https://github.com/catppuccin/catppuccin)  
 Rofi modules: [adi1090x/rofi](https://github.com/adi1090x/rofi)  
+Screenshots: [grim](https://sr.ht/~emersion/grim/)
   
 #### [Displaying images in neofetch]  
 foot needs [libsixel](https://copr.fedorainfracloud.org/coprs/lchh/libsixel/) to display images.  
