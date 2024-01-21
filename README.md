@@ -1,8 +1,4 @@
 ![](screenshots/neofetch.png)  
-![](screenshots/rofi-apps.png)  
-![](screenshots/foot.png)    
-![](screenshots/rofi-power.png)   
-
 
 #### [System Information]
 Operating system: [Fedora Sway](https://fedoraproject.org/spins/sway/)  
